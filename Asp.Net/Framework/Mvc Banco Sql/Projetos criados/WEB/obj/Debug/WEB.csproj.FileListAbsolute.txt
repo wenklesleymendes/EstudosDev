@@ -1,0 +1,157 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\csc.exe
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\vbc.exe
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\WEB.dll.config
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\WEB.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\WEB.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Antlr3.Runtime.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\EntityFramework.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Owin.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.Helpers.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.Mvc.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.Optimization.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.Razor.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.WebPages.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\WebGrease.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.Helpers.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.Mvc.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.Optimization.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.Razor.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.WebPages.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Antlr3.Runtime.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\EntityFramework.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\obj\Debug\WEB.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\obj\Debug\WEB.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\BDProjeto.Dominio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\DBProjeto.Aplicacao.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\BDProjeto.Repositorio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\BDProjeto.Dominio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\DBProjeto.Aplicacao.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\BDProjeto.Repositorio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\BDProjeto.RepositorioEF.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\WEB\bin\BDProjeto.RepositorioEF.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\csc.exe
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\vbc.exe
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\VBCSCompiler.exe
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\WEB.dll.config
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\WEB.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\WEB.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Antlr3.Runtime.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\BDProjeto.Dominio.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\DBProjeto.Aplicacao.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\EntityFramework.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\EntityFramework.SqlServer.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.AspNet.Identity.Core.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.Cookies.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.Facebook.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.Google.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.OAuth.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.Twitter.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Web.Infrastructure.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Newtonsoft.Json.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Owin.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.Helpers.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.Mvc.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.Optimization.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.Razor.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.WebPages.Deployment.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.WebPages.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.WebPages.Razor.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\WebGrease.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\BDProjeto.Repositorio.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\BDProjeto.RepositorioEF.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\BDProjeto.Dominio.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\DBProjeto.Aplicacao.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.Helpers.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.Mvc.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.Optimization.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.Razor.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.WebPages.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.WebPages.Deployment.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\System.Web.WebPages.Razor.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Antlr3.Runtime.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Newtonsoft.Json.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\EntityFramework.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\EntityFramework.SqlServer.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.AspNet.Identity.Core.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.Facebook.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.Cookies.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.OAuth.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.Google.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.Twitter.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\BDProjeto.Repositorio.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\BDProjeto.RepositorioEF.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\bin\BDProjeto.RepositorioEF.dll.config
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\obj\Debug\WEB.csprojAssemblyReference.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\obj\Debug\WEB.csproj.CoreCompileInputs.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\obj\Debug\WEB.csproj.CopyComplete
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\obj\Debug\WEB.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\WEB\obj\Debug\WEB.pdb

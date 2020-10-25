@@ -1,0 +1,5 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.pdb

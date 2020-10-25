@@ -1,0 +1,12 @@
+c:\users\hugo\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+c:\users\hugo\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe
+c:\users\hugo\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.csprojResolveAssemblyReference.cache
+c:\users\hugo\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.exe
+c:\users\hugo\documents\visual studio 2015\Projects\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\DBProjeto.Aplicacao.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\ConexaoBD\bin\Debug\DBProjeto.Aplicacao.pdb

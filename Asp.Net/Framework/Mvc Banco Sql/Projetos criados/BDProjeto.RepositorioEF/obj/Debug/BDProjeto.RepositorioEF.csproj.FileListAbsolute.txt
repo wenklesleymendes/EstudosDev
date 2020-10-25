@@ -1,0 +1,26 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.dll.config
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.dll.config
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.RepositorioEF.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.Dominio.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\bin\Debug\BDProjeto.Dominio.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.csprojAssemblyReference.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.csproj.CoreCompileInputs.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.csproj.CopyComplete
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\BDProjeto.RepositorioEF\obj\Debug\BDProjeto.RepositorioEF.pdb
