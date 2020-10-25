@@ -1,0 +1,33 @@
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\DBProjeto.Aplicacao.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\DBProjeto.Aplicacao.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\obj\Debug\BDProjeto.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\obj\Debug\DBProjeto.Aplicacao.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\obj\Debug\DBProjeto.Aplicacao.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\BDProjeto.RepositorioEF.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\EntityFramework.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\BDProjeto.RepositorioEF.pdb
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\EntityFramework.xml
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hugo\Documents\Visual Studio 2015\Projects\BDProjeto\DBProjeto.Aplicacao\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\DBProjeto.Aplicacao.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\DBProjeto.Aplicacao.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\BDProjeto.Dominio.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\BDProjeto.Repositorio.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\BDProjeto.RepositorioEF.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\EntityFramework.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\EntityFramework.SqlServer.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\BDProjeto.Dominio.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\BDProjeto.RepositorioEF.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\BDProjeto.RepositorioEF.dll.config
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\BDProjeto.Repositorio.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\EntityFramework.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\bin\Debug\EntityFramework.SqlServer.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\obj\Debug\BDProjeto.Aplicacao.csprojAssemblyReference.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\obj\Debug\BDProjeto.Aplicacao.csproj.CoreCompileInputs.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\obj\Debug\BDProjeto.Aplicacao.csproj.CopyComplete
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\obj\Debug\DBProjeto.Aplicacao.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados\DBProjeto.Aplicacao\obj\Debug\DBProjeto.Aplicacao.pdb

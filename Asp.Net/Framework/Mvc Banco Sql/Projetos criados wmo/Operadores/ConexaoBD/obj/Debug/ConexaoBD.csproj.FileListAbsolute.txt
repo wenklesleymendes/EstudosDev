@@ -1,0 +1,7 @@
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados wmo\Operadores\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados wmo\Operadores\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados wmo\Operadores\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados wmo\Operadores\ConexaoBD\obj\Debug\ConexaoBD.csprojAssemblyReference.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados wmo\Operadores\ConexaoBD\obj\Debug\ConexaoBD.csproj.CoreCompileInputs.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados wmo\Operadores\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\Mvc Banco Sql\Projetos criados wmo\Operadores\ConexaoBD\obj\Debug\ConexaoBD.pdb

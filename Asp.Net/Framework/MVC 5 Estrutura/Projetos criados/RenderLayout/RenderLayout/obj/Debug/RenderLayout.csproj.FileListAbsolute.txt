@@ -1,0 +1,166 @@
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\ApplicationInsights.config
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\csc.exe
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\System.Collections.Immutable.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\vbc.exe
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\VBCSCompiler.exe
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\roslyn\VBCSCompiler.exe.config
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\RenderLayout.dll.config
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\RenderLayout.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\RenderLayout.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Antlr3.Runtime.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\EntityFramework.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\EntityFramework.SqlServer.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.Web.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.ApplicationInsights.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Google.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Newtonsoft.Json.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Owin.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.Helpers.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.Mvc.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.Optimization.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.Razor.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.WebPages.Deployment.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.WebPages.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.WebPages.Razor.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\WebGrease.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.Web.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.ApplicationInsights.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.Helpers.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.Mvc.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.Optimization.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.Razor.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.WebPages.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.WebPages.Deployment.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\System.Web.WebPages.Razor.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Antlr3.Runtime.pdb
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Newtonsoft.Json.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\EntityFramework.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\EntityFramework.SqlServer.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Google.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\obj\Debug\RenderLayout.csprojResolveAssemblyReference.cache
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\obj\Debug\RenderLayout.dll
+c:\users\hugo\documents\visual studio 2015\Projects\RenderLayout\RenderLayout\obj\Debug\RenderLayout.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\ApplicationInsights.config
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\csc.exe
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\System.Collections.Immutable.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\System.Reflection.Metadata.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\vbc.exe
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\VBCSCompiler.exe
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\roslyn\VBCSCompiler.exe.config
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\RenderLayout.dll.config
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\RenderLayout.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\RenderLayout.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Antlr3.Runtime.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\EntityFramework.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\EntityFramework.SqlServer.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.Agent.Intercept.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.DependencyCollector.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.Web.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.WindowsServer.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.ApplicationInsights.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.Core.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Cookies.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Facebook.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Google.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.OAuth.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Twitter.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Web.Infrastructure.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Newtonsoft.Json.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Owin.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.Helpers.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.Mvc.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.Optimization.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.Razor.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.WebPages.Deployment.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.WebPages.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.WebPages.Razor.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\WebGrease.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.DependencyCollector.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.Web.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AI.WindowsServer.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.ApplicationInsights.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.Helpers.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.Mvc.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.Optimization.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.Razor.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.WebPages.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.WebPages.Deployment.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\System.Web.WebPages.Razor.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Antlr3.Runtime.pdb
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Newtonsoft.Json.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\EntityFramework.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\EntityFramework.SqlServer.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.Core.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Facebook.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Cookies.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.OAuth.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Google.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.Twitter.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\obj\Debug\RenderLayout.csprojAssemblyReference.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\obj\Debug\RenderLayout.csproj.CoreCompileInputs.cache
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\obj\Debug\RenderLayout.csproj.CopyComplete
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\obj\Debug\RenderLayout.dll
+C:\WorkWenklesley\Estudos\Asp.Net\Framework\MVC 5 Estrutura\Projetos criados\RenderLayout\RenderLayout\obj\Debug\RenderLayout.pdb
