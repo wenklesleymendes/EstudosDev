@@ -1,0 +1,2 @@
+INSERT INTO `cursodb`.`livros` (`Nome`, `Edicao`, `NumeroPagina`, `Preco`, `Editora`, `SiteLivro`, `EmailAutor`) 
+VALUES ('O Ladrão de Raios', '5º Edição', '651', '29.90', 'Intrinseca', 'http://oladraoderaios.com.br', 'rickriordan@gmail.com');

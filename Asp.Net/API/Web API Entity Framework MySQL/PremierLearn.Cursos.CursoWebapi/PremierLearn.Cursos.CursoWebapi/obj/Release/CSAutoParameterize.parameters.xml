@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BancoContext-Web.config Connection String" description="BancoContext Connection String used in web.config by the application to access the database." defaultValue="server=srvpc-mysql05l.brazilsouth.cloudapp.azure.com;port=3306;database=cursodb;uid=cursouser;password=oSWUb2F68jApGbFs" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Fernando\ Carmo\\source\\repos\\PremierLearn\.Cursos\\PremierLearn\.Cursos\.CursoWebapi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BancoContext']/@connectionString" />
+  </parameter>
+</parameters>
