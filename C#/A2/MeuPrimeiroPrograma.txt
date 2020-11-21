@@ -1,0 +1,10 @@
+using System;
+
+class programa
+{
+	static void Main(strig[] args)
+	{
+		Console.WriteLine("Olá, Mundo! Este e meu primeiro programa de varios");
+	}
+
+}

@@ -1,0 +1,34 @@
+Questonario A2 
+
+1)Qual é o grande benefício de uma Maquina Virtual .NET (CLR - common language runtime)? 
+
+Resposta: Executar o código independente do sistema operacional.
+
+Explicação : Porque .NET você terá sempre o mesmo MSIL que será executado pela 
+Maquina Virtual CLR, independente do sistema operacional. 
+Assim não é preciso rescrever ou adaptar o código para rodar em um outro sistema 
+operacional ou integrar em um projeto escrito com outra linguagem .NET .
+
+
+2) Dependendo da linguagem de programação, existem vários tipos de aplicações que você 
+pode desenvolver, como por exemplo:
+
+a) Sistemas para Web (Web Sites ou Web Apps)
+
+b) Sistemas puramente "Server-Side"
+
+c) Aplicativos móveis
+
+d) Jogos de console (como o Xbox)
+
+e) Aplicativos de desktop
+
+Quais tipos de aplicações você pode criar com a linguagem C#? 
+
+Resposta: Todos.
+
+Explicação: Seja web ou puramente server-side, aplicativo móveis ou um jogos, o C# atende
+todas essas áreas! 
+No entanto, os sistemas web e desktop são os que mais fizeram sucesso no mundo C# e mais 
+empregam desenvolvedores.
+

@@ -1,0 +1,10 @@
+Estrutura de Diretorio C# basico
+
+Raiz
+.vs (E um arquivo oculto quanda informaçoes do visual estudio onde tipo qual ultimo arquivo 
+aberto tem a ver como usamos nossa solução)
+
+NomeProgema(Onde fica os arquivos do projeto).
+
+Solução do projeto
+
