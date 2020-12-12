@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Math_Matematica</name>
+    </assembly>
+    <members>
+        <member name="T:Math_Matematica.Math">
+            <summary>
+            
+            A principal <c>Math</c> classe.
+            Conter todos métodos para executar funções matemáticas básicas
+            <list type="bullet">
+            <item>
+            <term>Add</term>
+            <description>Operações de adição</description>
+            </item>
+            <item>
+            <term>Subtract</term>
+            <description>Operações de subtração</description>
+            </item>
+            <item>
+            <term>Multiplica</term>
+            <description>Operação de multiplicação</description>
+            </item>
+            <item>
+            <term>Divide</term>
+            <description>Operação de divisão</description>
+            </item>
+            </list>
+            </summary>
+            <remarks>
+            <para>Essa classe poide adicionar, subtrair, multiplicar e dividir.</para>
+            <para>Essas operações podem ser executadas em ambos integrantes e doubles</para>
+            </remarks>
+        </member>
+        <member name="M:Math_Matematica.Math.Add(System.Int32,System.Int32)">
+            <summary>
+            Adiciona dois integrantes <paramref name="a"/> e <paramref name="b"/> e retorna o resultado.
+            </summary>
+            <returns>
+            A soma de dois integrantes
+            </returns>
+            <example>
+            <code>
+            int c = Math.Add(4, 5);
+            if (c > 10)
+            {
+                Console.WriteLine(c);
+            }
+            </code>
+            </example>
+            <exception cref="T:System.OverflowException">Jogar quando um parâmetro é máximo
+            E o outro é maior que zero.</exception>
+            Ver<see cref="M:Math_Matematica.Math.Add(System.Double,System.Double)"/> Para adicionar doubles.
+            <seealso cref="M:Math_Matematica.Math.Subtract(System.Int32,System.Int32)"/>
+            <seealso cref="M:Math_Matematica.Math.Multiply(System.Int32,System.Int32)"/>
+            <seealso cref="M:Math_Matematica.Math.Divide(System.Int32,System.Int32)"/>
+            <param name="a">Um inetgrante</param>
+            <param name="b">Um integrante</param>
+        </member>
+        <member name="M:Math_Matematica.Math.Add(System.Double,System.Double)">
+            <summary>
+            Adiciona dois doubles <paramref name="a"/> e <paramref name="b"/> E retorna o resultado.
+            </summary>
+            <returns>
+            A Soma de dois doubles.
+            </returns>
+            <example>
+            <code>
+            double c = Math.Add(4.5, 5.4);
+            if (c > 10)
+            {
+                Console.WriteLine(c);
+            }
+            </code>
+            </example>
+            <exception cref="T:System.OverflowException">Jogar quando um parâmetro é máximo
+            E o outro é maior que zero.</exception>
+            Ver <see cref="M:Math_Matematica.Math.Add(System.Int32,System.Int32)"/> Para adicionar integrantes.
+            <seealso cref="M:Math_Matematica.Math.Subtract(System.Double,System.Double)"/>
+            <seealso cref="M:Math_Matematica.Math.Multiply(System.Double,System.Double)"/>
+            <seealso cref="M:Math_Matematica.Math.Divide(System.Double,System.Double)"/>
+            <param name="a">Um número de precisão dupla</param>
+            <param name="b">Um número de precisão dupla</param>
+        </member>
+        <member name="M:Math_Matematica.Math.Subtract(System.Int32,System.Int32)">
+            <summary>
+            Subtrai <paramref name="b"/> do <paramref name="a"/> E retornar o resultado.
+            </summary>
+            <returns>
+            A diferença entre dois integrantes
+            </returns>
+            <example>
+            <code>
+            int c = Math.Subtract(4, 5);
+            if (c > 1)
+            {
+                Console.WriteLine(c);
+            }
+            </code>
+            </example>
+            Ver <see cref="M:Math_Matematica.Math.Subtract(System.Double,System.Double)"/> para subtrair os doubles.
+            <seealso cref="M:Math_Matematica.Math.Add(System.Int32,System.Int32)"/>
+            <seealso cref="M:Math_Matematica.Math.Multiply(System.Int32,System.Int32)"/>
+            <seealso cref="M:Math_Matematica.Math.Divide(System.Int32,System.Int32)"/>
+            <param name="a">An integer.</param>
+            <param name="b">An integer.</param>
+        </member>
+        <member name="M:Math_Matematica.Math.Subtract(System.Double,System.Double)">
+             <summary>
+             subtrair um double <paramref name="b"/> De outro double <paramref name="a"/> e retornar o resultado.
+             </summary>
+             <returns>
+            A diferença entre dois doubles
+             </returns>
+             <example>
+             <code>
+             double c = Math.Subtract(4.5, 5.4);
+             if (c > 1)
+             {
+                 Console.WriteLine(c);
+             }
+             </code>
+             </example>
+             Ver <see cref="M:Math_Matematica.Math.Subtract(System.Int32,System.Int32)"/> Para subtrair integrantes.
+             <seealso cref="M:Math_Matematica.Math.Add(System.Double,System.Double)"/>
+             <seealso cref="M:Math_Matematica.Math.Multiply(System.Double,System.Double)"/>
+             <seealso cref="M:Math_Matematica.Math.Divide(System.Double,System.Double)"/>
+             <param name="a">Um número de precisão dupla</param>
+             <param name="b">Um número de precisão dupla</param>
+        </member>
+        <member name="M:Math_Matematica.Math.Multiply(System.Int32,System.Int32)">
+            <summary>
+            Multiplica dois integrantes <paramref name="a"/> e <paramref name="b"/> e retorna o resultado.
+            </summary>
+            <returns>
+            O produto de dois integrantes
+            </returns>
+            <example>
+            <code>
+            int c = Math.Multiply(4, 5);
+            if (c > 100)
+            {
+                Console.WriteLine(c);
+            }
+            </code>
+            </example>
+            Ver <see cref="M:Math_Matematica.Math.Multiply(System.Double,System.Double)"/> Para multiplicar doubles.
+            <seealso cref="M:Math_Matematica.Math.Add(System.Int32,System.Int32)"/>
+            <seealso cref="M:Math_Matematica.Math.Subtract(System.Int32,System.Int32)"/>
+            <seealso cref="M:Math_Matematica.Math.Divide(System.Int32,System.Int32)"/>
+            <param name="a">um integrante.</param>
+            <param name="b">um integrante.</param>
+        </member>
+        <member name="M:Math_Matematica.Math.Multiply(System.Double,System.Double)">
+            <summary>
+            Multiplica dois doubles <paramref name="a"/> e <paramref name="b"/> e retorna o resultado.
+            </summary>
+            <returns>
+            O produto de dois doubles.
+            </returns>
+            <example>
+            <code>
+            double c = Math.Multiply(4.5, 5.4);
+            if (c > 100.0)
+            {
+                Console.WriteLine(c);
+            }
+            </code>
+            </example>
+            Ver <see cref="M:Math_Matematica.Math.Multiply(System.Int32,System.Int32)"/> para multiplicar integrantes.
+            <seealso cref="M:Math_Matematica.Math.Add(System.Double,System.Double)"/>
+            <seealso cref="M:Math_Matematica.Math.Subtract(System.Double,System.Double)"/>
+            <seealso cref="M:Math_Matematica.Math.Divide(System.Double,System.Double)"/>
+            <param name="a">Um número de precisão dupla</param>
+            <param name="b">Um número de precisão dupla</param>
+        </member>
+        <member name="M:Math_Matematica.Math.Divide(System.Int32,System.Int32)">
+            <summary>
+            Divide o integrante <paramref name="a"/> por outro integrante <paramref name="b"/> e returna o resultado
+            </summary>
+            <returns>
+            O quociente de dois integrantes.
+            </returns>
+            <example>
+            <code>
+            int c = Math.Divide(4, 5);
+            if (c > 1)
+            {
+                Console.WriteLine(c);
+            }
+            </code>
+            </example>
+            <exception cref="T:System.DivideByZeroException">Joga quando <paramref name="b"/> è igual á zero.</exception>
+            Ver <see cref="M:Math_Matematica.Math.Divide(System.Double,System.Double)"/> Para dividir doubles.
+            <seealso cref="M:Math_Matematica.Math.Add(System.Int32,System.Int32)"/>
+            <seealso cref="M:Math_Matematica.Math.Subtract(System.Int32,System.Int32)"/>
+            <seealso cref="M:Math_Matematica.Math.Multiply(System.Int32,System.Int32)"/>
+            <param name="a">Um integrante dividendo</param>
+            <param name="b">Um integrante divisor</param>
+        </member>
+        <member name="M:Math_Matematica.Math.Divide(System.Double,System.Double)">
+            <summary>
+            Divide o integrante <paramref name="a"/> por outro double <paramref name="b"/> e retorna o resultado.
+            </summary>
+            <returns>
+            O quociente de dois doubles.
+            </returns>
+            <example>
+            <code>
+            double c = Math.Divide(4.5, 5.4);
+            if (c > 1.0)
+            {
+                Console.WriteLine(c);
+            }
+            </code>
+            </example>
+            <exception cref="T:System.DivideByZeroException">Jogar quando <paramref name="b"/> é igual á zero</exception>
+            Ver <see cref="M:Math_Matematica.Math.Divide(System.Int32,System.Int32)"/> Para dividir integrantes.
+            <seealso cref="M:Math_Matematica.Math.Add(System.Double,System.Double)"/>
+            <seealso cref="M:Math_Matematica.Math.Subtract(System.Double,System.Double)"/>
+            <seealso cref="M:Math_Matematica.Math.Multiply(System.Double,System.Double)"/>
+            <param name="a">Um dividendo de precisão dupla.</param>
+            <param name="b">Um divisor de precisão dupla</param>
+        </member>
+    </members>
+</doc>

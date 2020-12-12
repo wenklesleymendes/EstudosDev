@@ -1,0 +1,8 @@
+D:\Work\EstudosDev\Documentação Xml\Math_Matematica\Math_Matematica\obj\Debug\Math_Matematica.csprojAssemblyReference.cache
+D:\Work\EstudosDev\Documentação Xml\Math_Matematica\Math_Matematica\obj\Debug\Math_Matematica.csproj.CoreCompileInputs.cache
+D:\Work\EstudosDev\Documentação Xml\Math_Matematica\Math_Matematica\bin\Debug\Math_Matematica.exe.config
+D:\Work\EstudosDev\Documentação Xml\Math_Matematica\Math_Matematica\bin\Debug\Math_Matematica.xml
+D:\Work\EstudosDev\Documentação Xml\Math_Matematica\Math_Matematica\bin\Debug\Math_Matematica.exe
+D:\Work\EstudosDev\Documentação Xml\Math_Matematica\Math_Matematica\bin\Debug\Math_Matematica.pdb
+D:\Work\EstudosDev\Documentação Xml\Math_Matematica\Math_Matematica\obj\Debug\Math_Matematica.exe
+D:\Work\EstudosDev\Documentação Xml\Math_Matematica\Math_Matematica\obj\Debug\Math_Matematica.pdb
