@@ -1,4 +1,3 @@
-D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\obj\Debug\IntroducaoMVC.csproj.CoreCompileInputs.cache
 D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\bin\IntroducaoMVC.dll.config
 D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\bin\IntroducaoMVC.dll
 D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\bin\IntroducaoMVC.pdb
@@ -80,6 +79,8 @@ D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMV
 D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\bin\pt-br\System.Web.WebPages.resources.dll
 D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\obj\Debug\IntroducaoMVC.csproj.CoreCompileInputs.cache
 D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\obj\Debug\IntroducaoMVC.csproj.CopyComplete
 D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\obj\Debug\IntroducaoMVC.dll
 D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\obj\Debug\IntroducaoMVC.pdb
+D:\Work\EstudosDev\Asp.Net\Framework\MVC 5 Estrutura\Projetos Aulas\IntroducaoMVC\IntroducaoMVC\obj\Debug\IntroducaoMVC.csprojAssemblyReference.cache

@@ -1,6 +1,38 @@
-﻿@{
+﻿@Model IntroducaoMVC.Models.Pessoa
+
+@{
     ViewBag.Title = "Index";
 }
 
 <h2>Index</h2>
-<p>Curso com Hugo Vasconcelos MVC 5</p>
+<h2>Representação de Dados @Model.RepresentacaoDados </h2>
+
+<form action="Home/Lista" method="POST">
+    <fieldset>
+        <legend>Informaçoes de Pessoas</legend>
+    </fieldset>
+
+    <div>
+        <label for="PessoaId">Código</label>
+    </div>
+    <div>
+        <input type="number" value="@Model.PesssoaId" name="PessoaId">
+    </div>
+
+    <div>
+        <label for="PessoaId">Nome</label>
+    </div>
+    <div>
+        <input type="text" value="@Model.Nome" name="Nome">
+    </div>
+
+    <div>
+        <label for="PessoaId">Tipo Pessoa</label>
+    </div>
+    <div>
+        <input type="text" value="@Model.Tipo" name="Tipo">
+    </div>
+
+    <p><input type="submit" value="Enviar"/></p>
+
+</form>
