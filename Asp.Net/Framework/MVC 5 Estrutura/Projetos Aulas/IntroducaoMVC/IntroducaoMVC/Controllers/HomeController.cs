@@ -9,8 +9,8 @@ namespace IntroducaoMVC.Controllers
         {
             var pessoa = new Pessoa()
             {
-                RepresentacaoDados = "ViewTipada",
-                PesssoaId = 4,
+                Rd = $"View Tipada pelo metodo {nameof(Index)} ",
+                PessoaId = 4,
                 Nome = "Eliete Aparecida Silva Mendes",
                 Tipo = "Desenvolvedor"
             };
@@ -23,27 +23,27 @@ namespace IntroducaoMVC.Controllers
         {
             var pessoaViewData = new Pessoa()
             {
-                RepresentacaoDados = "ViewData",
-                PesssoaId = 1,
+                Rd = "ViewData",
+                PessoaId = 1,
                 Nome = "Wenklesley Mendes Oliveira",
                 Tipo = "Desenvolvedor"
             };
 
-            ViewData["RepresentacaoDados"] = pessoaViewData.RepresentacaoDados;
-            ViewData["PesssoaId"] = pessoaViewData.PesssoaId;
+            ViewData["RepresentacaoDados"] = pessoaViewData.Rd;
+            ViewData["PesssoaId"] = pessoaViewData.PessoaId;
             ViewData["Nome"] = pessoaViewData.Nome;
             ViewData["Tipo"] = pessoaViewData.Tipo;
 
             var pessoaViewBag = new Pessoa()
             {
-                RepresentacaoDados = "ViewBag",
-                PesssoaId = 2,
+                Rd = "ViewBag",
+                PessoaId = 2,
                 Nome = "Kaio Nathan Silva Mendes",
                 Tipo = "Professor de Linguas estrangeiras"
             };
 
-            ViewBag.Dados = pessoaViewBag.RepresentacaoDados;
-            ViewBag.Id = pessoaViewBag.PesssoaId;
+            ViewBag.Dados = pessoaViewBag.Rd;
+            ViewBag.Id = pessoaViewBag.PessoaId;
             ViewBag.Nome = pessoaViewBag.Nome;
             ViewBag.Tipo = pessoaViewBag.Tipo;
 
@@ -52,15 +52,15 @@ namespace IntroducaoMVC.Controllers
 
         public ActionResult IndexVTP()
         {
-            var pessoaViewTipada = new Pessoa()
+            var pessoa = new Pessoa()
             {
-                RepresentacaoDados = "ViewTipada",
-                PesssoaId = 3,
+                Rd = $"View Tipada pelo metodo {nameof(IndexVTP)}",
+                PessoaId = 3,
                 Nome = "Henrry Gabriel Silva Mendes",
                 Tipo = "Administrador Financeiro"
             };
 
-            return View(pessoaViewTipada);
+            return View(pessoa);
         }
 
         public  ActionResult Contatos()
@@ -69,9 +69,9 @@ namespace IntroducaoMVC.Controllers
         }
 
         [HttpPost]
-        public ActionResult Lista()
+        public ActionResult Lista(Pessoa pessoa)
         {
-            return View();
+            return View(pessoa);
         }
     }
 }

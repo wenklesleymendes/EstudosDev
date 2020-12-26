@@ -2,8 +2,8 @@
 {
     public class Pessoa
     {
-        public string RepresentacaoDados { get; set; }
-        public int PesssoaId { get; set; }
+        public string Rd { get; set; }
+        public int PessoaId { get; set; }
         public string Nome { get; set; }
         public string Tipo { get; set; }
     }
