@@ -1,10 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using System.Web.Http.Cors;
 using WebApp.Models;
 
 namespace WebApp.Controllers
 {
+    [EnableCors("*","*","*")]
     public class AlunoController : ApiController
     {
         // GET: api/Aluno
@@ -30,13 +32,17 @@ namespace WebApp.Controllers
         }
 
         // PUT: api/Aluno/5
-        public void Put(int id, [FromBody]string value)
+        public Aluno Put(int id, [FromBody]Aluno aluno)
         {
+            var _aluno = new Aluno();
+            return _aluno.Atualizar(id, aluno);
         }
 
         // DELETE: api/Aluno/5
         public void Delete(int id)
         {
+            var _aluno = new Aluno();
+            _aluno.Deletar(id);
         }
     }
 }

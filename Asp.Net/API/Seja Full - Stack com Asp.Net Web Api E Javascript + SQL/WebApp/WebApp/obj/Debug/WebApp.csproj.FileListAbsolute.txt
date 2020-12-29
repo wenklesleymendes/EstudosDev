@@ -65,3 +65,6 @@ D:\Work\EstudosDev\Asp.Net\API\Seja Full - Stack com Asp.Net Web Api E Javascrip
 D:\Work\EstudosDev\Asp.Net\API\Seja Full - Stack com Asp.Net Web Api E Javascript + SQL\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
 D:\Work\EstudosDev\Asp.Net\API\Seja Full - Stack com Asp.Net Web Api E Javascript + SQL\WebApp\WebApp\obj\Debug\WebApp.dll
 D:\Work\EstudosDev\Asp.Net\API\Seja Full - Stack com Asp.Net Web Api E Javascript + SQL\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\Work\EstudosDev\Asp.Net\API\Seja Full - Stack com Asp.Net Web Api E Javascript + SQL\WebApp\WebApp\bin\System.Web.Cors.dll
+D:\Work\EstudosDev\Asp.Net\API\Seja Full - Stack com Asp.Net Web Api E Javascript + SQL\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+D:\Work\EstudosDev\Asp.Net\API\Seja Full - Stack com Asp.Net Web Api E Javascript + SQL\WebApp\WebApp\bin\System.Web.Http.Cors.xml

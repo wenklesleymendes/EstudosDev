@@ -12,9 +12,9 @@ namespace WebApp.Models
     {
         public int Id { get; set; }
         public string Nome { get; set; }
-        public string SobreNome { get; set; }
+        public string Sobrenome { get; set; }
         public string Telefone { get; set; }
-        public string Ra { get; set; }
+        public string RA { get; set; }
 
         public List<Aluno> ListaAlunos()
         {
@@ -74,6 +74,7 @@ namespace WebApp.Models
                 return false;
             }
 
+            ReescrevarArquivo(listaAlunos);
             return true;
         }
     }
