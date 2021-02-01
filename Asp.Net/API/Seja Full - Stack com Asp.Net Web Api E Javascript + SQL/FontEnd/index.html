@@ -57,7 +57,7 @@
     <script type="text/javascript">
 
        var tbody = document.querySelector('table tbody');
-       var aluno;
+       var aluno = {};
 
        function Cadastrar() {
 
@@ -68,13 +68,13 @@
             
             console.log(aluno);
 
-            if (aluno.id === undefined || aluno.id === 0) 
+            if (aluno.Id === undefined || aluno.Id === 0) 
             {
                 salvarEstudantes('POST', 0, aluno);
             }
             else
             {
-                salvarEstudantes('PUT', aluno.id, aluno);
+                salvarEstudantes('PUT', aluno.Id, aluno);
             }
 
             carregaEstudantes();            
@@ -149,9 +149,7 @@
             btnCancelar.textContent = 'Cancelar'
 
             titulo.textContent = `Editar Aluno ${estudante.Nome}`;
-
             aluno = estudante;
-
             console.log(aluno);
         }
 
