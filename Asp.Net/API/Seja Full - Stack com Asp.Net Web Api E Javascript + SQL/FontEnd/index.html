@@ -77,7 +77,7 @@
                 salvarEstudantes('PUT', aluno.Id, aluno);
             }
 
-            carregaEstudantes();            
+            CarregaEstudantes();            
         }
 
         function Cancelar(){
@@ -91,13 +91,15 @@
             document.querySelector('#Telefone').value = '';
             document.querySelector('#RA').value = '';
 
+            Aluno = {};
+
             btnSalvar.textContent = 'Cadastrar';
             btnCancelar.textContent = 'Limpar';
 
             titulo.textContent = 'Cadastrar Aluno'
         }
 
-        function carregaEstudantes() {
+        function CarregaEstudantes() {
             
             tbody.innerHTML = '';
 
@@ -132,9 +134,22 @@
             xhr.send(JSON.stringify(corpo));
         }
 
-        carregaEstudantes();
+         function ExcluirEstudante(id) {
+            
+            var xhr = new XMLHttpRequest();
+            xhr.open(`DELETE`, `https://localhost:44399/Api/aluno/${id}`, false);
+            xhr.send();
+        }
 
-        function editarEstudante(estudante){
+        function Excluir (id) {
+
+             ExcluirEstudante(id);
+             CarregaEstudantes();
+        }
+
+        CarregaEstudantes();
+
+        function EditarEstudante(estudante){
 
             var btnSalvar = document.querySelector('#btnSalvar');
             var btnCancelar = document.querySelector('#btnCancelar');
@@ -160,7 +175,7 @@
                             <td>${estudante.Sobrenome}</td>
                             <td>${estudante.Telefone}</td>
                             <td>${estudante.RA}</td>
-                            <td><button onclick='editarEstudante(${JSON.stringify(estudante)})'>Editar</button></td>
+                            <td><button onclick='EditarEstudante(${JSON.stringify(estudante)})'>Editar</button></td>
                             <td><button onclick='Excluir(${estudante.Id})'>Excluir</button></td>
                         </tr>
                        `

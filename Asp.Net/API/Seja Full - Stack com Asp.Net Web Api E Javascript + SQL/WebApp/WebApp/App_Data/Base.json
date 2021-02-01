@@ -3,7 +3,7 @@
     "Id": 1,
     "Nome": "mendes",
     "Sobrenome": "teste",
-    "Telefone": "(00) 0000-0000",
+    "Telefone": "(00) 0000-1258",
     "RA": "0000"
   },
   {
@@ -68,54 +68,5 @@
     "Sobrenome": "Feio",
     "Telefone": "62 9852-8745",
     "RA": "2153"
-  },
-  {
-    "Id": 11,
-    "Nome": "Wenklesley Filho",
-    "Sobrenome": "Mendes Oliveira",
-    "Telefone": "(62) 1111-1111",
-    "RA": "0004"
-  },
-  {
-    "Id": 12,
-    "Nome": "Wenklesley",
-    "Sobrenome": "Mendes Oliveira",
-    "Telefone": "(62) 5252-5252",
-    "RA": "1401"
-  },
-  {
-    "Id": 13,
-    "Nome": "Wenklesley teste2",
-    "Sobrenome": "Mendes Oliveira",
-    "Telefone": "(62) 5252-5252",
-    "RA": "1401"
-  },
-  {
-    "Id": 14,
-    "Nome": "Wenklesley",
-    "Sobrenome": "Mendes Oliveira",
-    "Telefone": "(62) 1111-1111",
-    "RA": "1401"
-  },
-  {
-    "Id": 15,
-    "Nome": "mendes",
-    "Sobrenome": "OOI",
-    "Telefone": "62 8888-9678",
-    "RA": "123645"
-  },
-  {
-    "Id": 16,
-    "Nome": "mendes",
-    "Sobrenome": "OOI",
-    "Telefone": "62 8888-9678",
-    "RA": "123645"
-  },
-  {
-    "Id": 17,
-    "Nome": "",
-    "Sobrenome": "",
-    "Telefone": "",
-    "RA": ""
   }
 ]
