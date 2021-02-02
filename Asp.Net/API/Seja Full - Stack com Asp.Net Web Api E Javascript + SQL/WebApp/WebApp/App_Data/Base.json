@@ -1,12 +1,5 @@
 [
   {
-    "Id": 1,
-    "Nome": "mendes",
-    "Sobrenome": "teste",
-    "Telefone": "(00) 0000-1258",
-    "RA": "0000"
-  },
-  {
     "Id": 2,
     "Nome": "Kaio Nathan",
     "Sobrenome": "Silva Mendes",
@@ -54,13 +47,6 @@
     "Sobrenome": "Silva Mendes",
     "Telefone": "(62) 8888-8888",
     "RA": "1408"
-  },
-  {
-    "Id": 9,
-    "Nome": "Aparecida",
-    "Sobrenome": "Silva Mendes",
-    "Telefone": "(62) 9999-9999",
-    "RA": "1409"
   },
   {
     "Id": 10,
