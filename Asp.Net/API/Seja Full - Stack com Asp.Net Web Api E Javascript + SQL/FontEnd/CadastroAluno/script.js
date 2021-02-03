@@ -63,24 +63,34 @@ function Cancelar(){
 }
 
 function CarregaEstudantes() {
-
     tbody.innerHTML = '';
 
     var xhr = new XMLHttpRequest();
 
     xhr.open(`GET`, `https://localhost:44399/Api/aluno`, true);
 
-    xhr.onload = function () {
+    xhr.onerror = function() {
+        console.log('ERRO', xhr.readyState);
+    }
 
-        var estudantes = JSON.parse(this.responseText);
+    xhr.onreadystatechange = function() {
+        if (this.readyState == 4) {
+           if ( this.status == 200) {
+            var estudantes = JSON.parse(this.responseText);
+            for(var indice in estudantes){
+                adicionaLinha(estudantes[indice]);
+            }
+            else if (this.status == 500) {
+                var erro = JSON.parse(this.responseText);
+                console.log(erro);
 
-        for(var indice in estudantes){
-            adicionaLinha(estudantes[indice]);
+            }
         }
     }
 
-    xhr.send();
+}
 
+xhr.send();
 }
 
 function salvarEstudantes(metado, id, corpo) {
