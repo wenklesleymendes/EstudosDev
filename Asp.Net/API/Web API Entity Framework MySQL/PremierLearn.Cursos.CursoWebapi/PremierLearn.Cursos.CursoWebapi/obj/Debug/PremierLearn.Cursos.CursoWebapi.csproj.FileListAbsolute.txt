@@ -64,5 +64,3 @@ C:\Users\Fernando Carmo\source\repos\PremierLearn.Cursos\PremierLearn.Cursos.Cur
 C:\Users\Fernando Carmo\source\repos\PremierLearn.Cursos\PremierLearn.Cursos.CursoWebapi\obj\Debug\PremierLearn.Cursos.CursoWebapi.csprojResolveAssemblyReference.cache
 C:\Users\Fernando Carmo\source\repos\PremierLearn.Cursos\PremierLearn.Cursos.CursoWebapi\obj\Debug\PremierLearn.Cursos.CursoWebapi.Migrations.Migracao4.resources
 C:\Users\Fernando Carmo\source\repos\PremierLearn.Cursos\PremierLearn.Cursos.CursoWebapi\obj\Debug\PremierLearn.Cursos.CursoWebapi.csproj.GenerateResource.Cache
-C:\WorkWenklesley\Projetos\AspNetMvc\Web API Entity Framework MySQL\PremierLearn.Cursos.CursoWebapi\PremierLearn.Cursos.CursoWebapi\obj\Debug\PremierLearn.Cursos.CursoWebapi.dll
-C:\WorkWenklesley\Projetos\AspNetMvc\Web API Entity Framework MySQL\PremierLearn.Cursos.CursoWebapi\PremierLearn.Cursos.CursoWebapi\obj\Debug\PremierLearn.Cursos.CursoWebapi.pdb
